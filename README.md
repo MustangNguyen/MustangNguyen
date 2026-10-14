@@ -16,21 +16,21 @@
 <h6 align="center">I work with</h6>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity" height="60" alt="Unity" title="Unity" />
+  <img src="https://skillicons.dev/icons?i=unity" height="48" alt="Unity" title="Unity" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C#" title="C#" />
+  <img src="https://skillicons.dev/icons?i=cs" height="48" alt="C#" title="C#" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=py" height="48" alt="Python" title="Python" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="Cloudflare" title="Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="48" alt="Cloudflare" title="Cloudflare" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="Firebase" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase" title="Firebase" />
   <img width="12" />
-  <img src="assets/claude.svg" height="60" alt="Claude" title="Claude" />
+  <img src="assets/claude.svg" height="48" alt="Claude" title="Claude" />
   <img width="12" />
-  <img src="assets/codex.svg" height="60" alt="Codex" title="Codex" />
+  <img src="assets/codex.svg" height="48" alt="Codex" title="Codex" />
   <img width="12" />
-  <img src="assets/tmux.svg" height="60" alt="tmux" title="tmux" />
+  <img src="assets/tmux.svg" height="48" alt="tmux" title="tmux" />
 </div>
 
 ###
