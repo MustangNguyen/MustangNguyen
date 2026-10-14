@@ -16,36 +16,21 @@
 <h6 align="center">I work with</h6>
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/unity/unity-original.svg" height="48" alt="Unity" /><br/>Unity
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" height="48" alt="C#" /><br/>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" height="48" alt="Python" /><br/>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cloudflare/cloudflare-original.svg" height="48" alt="Cloudflare" /><br/>Cloudflare
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/firebase/firebase-original.svg" height="48" alt="Firebase" /><br/>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/claude-color.svg" height="48" alt="Claude" /><br/>Claude
-    </td>
-    <td align="center" width="96">
-      <img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/codex-color.svg" height="48" alt="Codex" /><br/>Codex
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/tmux" height="48" alt="tmux" /><br/>tmux
-    </td>
-  </tr>
-</table>
+  <img src="https://skillicons.dev/icons?i=unity" height="60" alt="Unity" title="Unity" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C#" title="C#" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="Cloudflare" title="Cloudflare" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="Firebase" title="Firebase" />
+  <img width="12" />
+  <img src="assets/claude.svg" height="60" alt="Claude" title="Claude" />
+  <img width="12" />
+  <img src="assets/codex.svg" height="60" alt="Codex" title="Codex" />
+  <img width="12" />
+  <img src="assets/tmux.svg" height="60" alt="tmux" title="tmux" />
 </div>
 
 ###
