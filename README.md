@@ -13,7 +13,7 @@
 
 ###
 
-<h6 align="center">I code with</h6>
+<h6 align="center">I work with</h6>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo" />
@@ -21,22 +21,12 @@
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-</div>
-
-###
-
-<h6 align="center">I'm also familiar with</h6>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo" />
+  <img src="https://cdn.simpleicons.org/googleplay" height="60" alt="google play logo" />
 </div>
 
 ###
