@@ -1,6 +1,6 @@
 <h1 align="center">Mustang Nguyen</h1>
 
-<h4 align="center">Unity Game Developer & [vai trò khác]</h4>
+<h4 align="center">Unity Game Developer</h4>
 
 <p align="center">
   [1-2 câu giới thiệu bản thân, ví dụ: I build games and interactive experiences with Unity.]
