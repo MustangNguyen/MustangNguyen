@@ -1,16 +1,15 @@
-## Hi there 👋
+<!-- Stats -->
+![Stats](https://github-readme-stats.vercel.app/api?username=MustangNguyen&show_icons=true&theme=tokyonight)
 
-<!--
-**MustangNguyen/MustangNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Ngôn ngữ dùng nhiều -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
 
-Here are some ideas to get you started:
+<!-- Streak -->
+![Streak](https://streak-stats.demolab.com?user=USERNAME)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Dòng chữ gõ động -->
+![Typing](https://readme-typing-svg.demolab.com?lines=Hello+World;Unity+Developer)
+
+<!-- Badge kỹ năng -->
+![Unity](https://img.shields.io/badge/Unity-000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
