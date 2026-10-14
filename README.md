@@ -3,7 +3,7 @@
 <h4 align="center">Unity Game Developer</h4>
 
 <p align="center">
-  [1-2 câu giới thiệu bản thân, ví dụ: I build games and interactive experiences with Unity.]
+  I build games with Unity and spend my free time digging into interesting projects online.
 </p>
 
 <div align="center">
