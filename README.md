@@ -1,14 +1,14 @@
 <h1 align="center">Mustang Nguyen</h1>
 
-<h4 align="center">Unity Game Developer & Programming Enthusiast</h4>
+<h4 align="center">Unity Game Developer</h4>
 
 <p align="center">
   I build games with Unity and spend my free time digging into interesting projects online.
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎮 focus-game dev-blue" alt="focus: game dev" />
-  <img src="https://img.shields.io/badge/✨ hobby-[sở thích]-green" alt="hobby" />
+  <img src="https://img.shields.io/badge/🎮 focus-messing around-blue" alt="focus: messing around" />
+  <img src="https://img.shields.io/badge/✨ hobby-[loading...]-green" alt="hobby" />
 </div>
 
 ###
