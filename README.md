@@ -7,12 +7,8 @@
 </p>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MustangNguyen.MustangNguyen" alt="visitor badge" />
   <img src="https://img.shields.io/badge/🎮 focus-game dev-blue" alt="focus: game dev" />
   <img src="https://img.shields.io/badge/✨ hobby-[sở thích]-green" alt="hobby" />
-
-  <img src="https://img.shields.io/github/followers/MustangNguyen?label=Follow&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/MustangNguyen?label=Stars&style=social" alt="GitHub stars" />
 </div>
 
 ###
