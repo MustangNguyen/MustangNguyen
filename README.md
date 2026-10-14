@@ -7,8 +7,8 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎮 focus-game dev-blue" alt="focus: game dev" />
-  <img src="https://img.shields.io/badge/✨ hobby-[sở thích]-green" alt="hobby" />
+  <img src="https://img.shields.io/badge/🎮 focus-messing around-blue" alt="focus: messing around" />
+  <img src="https://img.shields.io/badge/✨ hobby-[loading...]-green" alt="hobby" />
 </div>
 
 ###
