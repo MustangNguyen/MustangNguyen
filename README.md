@@ -25,8 +25,6 @@
   <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googleplay" height="60" alt="google play logo" />
 </div>
 
 ###
