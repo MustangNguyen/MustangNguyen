@@ -39,3 +39,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustangNguyen&layout=compact&theme=dracula" height="150" alt="top languages" />
   <img src="https://streak-stats.demolab.com?user=MustangNguyen&locale=en&mode=daily&theme=dracula&border_radius=5" height="150" alt="streak graph" />
 </div>
+
+###
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MustangNguyen/MustangNguyen/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MustangNguyen/MustangNguyen/output/github-snake.svg" />
+    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/MustangNguyen/MustangNguyen/output/github-snake.svg" />
+  </picture>
+</div>
